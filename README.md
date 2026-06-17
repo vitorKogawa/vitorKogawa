@@ -31,6 +31,23 @@ Seja desenhando **APIs REST** eficientes com **Node.js, TypeScript ou C#/.NET**,
 
 ---
 
+## 🛤️ Trajetória Profissional
+
+🏢 **Itaú Unibanco**
+> 👨‍💻 **Engenheiro de Software II** (Jun/2025 — Atualmente)
+> 💻 **Engenheiro de Software I** (Abr/2023 — Jun/2025)
+> 🚀 **Estagiário de T.I** (Mai/2022 — Mar/2023)
+
+🌐 **Avanade**
+> ⚡ **Analista e Desenvolvedor de Sistemas Jr** (Mar/2022 — Mai/2022)
+> 🌱 **Estagiário em Engenharia de Software** (Mar/2021 — Mar/2022)
+
+🎯 **Atria.Jr (Empresa Júnior - UNICAMP)**
+> 📊 **Coordenador de Projetos** (Jan/2020 — Dez/2020)
+> 🤝 **Assessor de Projetos** (Abr/2019 — Jan/2020)
+
+---
+
 ## 🚀 Grandes Desafios & Conquistas
 
 * **Modernização e Visão de Futuro:** Um dos meus maiores marcos profissionais foi atuar na gestão de contas em moedas estrangeiras. Tive a força de vontade para mergulhar e entender fluxos de negócio complexos o suficiente para resolver os incidentes e dores imediatas dos usuários. O grande ganho, porém, foi utilizar essa base para contribuir diretamente na construção de uma solução moderna e eficiente, liderando e direcionando o escopo técnico e mapeando toda a arquitetura de transição (As-Is para To-Be).
